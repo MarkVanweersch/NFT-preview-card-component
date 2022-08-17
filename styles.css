@@ -87,7 +87,7 @@ body {
   width: fit-content;
   margin: 1em 0;
   font-size: 1.5em;
-  font-weight: var(--fw-normal);
+  font-weight: var(--fw-bold);
   color: var(--clr-white);
 }
 
@@ -104,6 +104,7 @@ body {
   display: flex;
   justify-content: space-between;
   padding: 1em 0 0.5em;
+  font-weight: var(--fw-bold);
 }
 
 .pricing-container p {
